@@ -1,2 +1,2 @@
 repo for class
-git commit -m "Finish assignment"
+git commit -am Finish assignment
